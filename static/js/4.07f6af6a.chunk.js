@@ -1,2 +1,0 @@
-(this.webpackJsonpsurveyor=this.webpackJsonpsurveyor||[]).push([[4],{73:function(s){s.exports=JSON.parse('{"settings":"Configuraciones","locale":"Lugar"}')}}]);
-//# sourceMappingURL=4.07f6af6a.chunk.js.map
